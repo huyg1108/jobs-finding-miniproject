@@ -3,7 +3,7 @@
 ## Setup
 1. Git clone this repository
 ```
-$ git clone https://github.com/huyg1108/jobs-finding-miniproject
+git clone https://github.com/huyg1108/jobs-finding-miniproject
 ```
 2. Install and run:
 
