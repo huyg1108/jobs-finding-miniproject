@@ -1,5 +1,7 @@
 # Jobs finding (demo app)
 
+## Introduce
+This project using pre-trained model [SimCSE Vietnamese](https://huggingface.co/VoVanPhuc/sup-SimCSE-VietNamese-phobert-base)
 ## Setup
 1. Git clone this repository
 ```
